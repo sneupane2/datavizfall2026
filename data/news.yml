@@ -1,5 +1,86 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "Week 5 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1771362900'
+  date: "2026-02-17T21:15:00"
+  href: "/news/2026-02-17_faqs_week-05.html"
+  headings:
+  - id: "this-is-too-much-codetableau-can-do-all-this-so-why-cant-we-use-that"
+    text: "This is too much code—Tableau can do all this, so why can’t we use that?"
+  - id: "what-happened-to-ggthemeassist-why-isnt-it-working"
+    text: "What happened to {ggThemeAssist}? Why isn’t it working?"
+  - id: "i-specified-chunk-options-like-fig-width-but-they-didnt-work-and-they-appeared-in-the-documentwhy"
+    text: "I specified chunk options like <code>fig-width</code> but they didn’t work
+      and they appeared in the document—why?"
+  - id: "why-does-r-keep-complaining-about-size-being-deprecated"
+    text: "Why does R keep complaining about <code>size</code> being deprecated?"
+  - id: "why-should-i-use-ggsave-instead-of-just-rendering-a-quarto-document"
+    text: "Why should I use <code>ggsave()</code> instead of just rendering a Quarto
+      document?"
+  - id: "i-made-a-bunch-of-changes-to-my-plot-with-theme-but-when-i-used-ggsave-none-of-them-actually-saved.-why"
+    text: "I made a bunch of changes to my plot with <code>theme()</code> but when
+      I used <code>ggsave()</code>, none of them actually saved. Why?"
+  - id: "does-the-order-of-theme-things-matter-i-made-changes-with-theme-and-then-wiped-them-out-with-theme_minimal"
+    text: "Does the order of theme things matter? I made changes with <code>theme()</code>
+      and then wiped them out with <code>theme_minimal()</code>?"
+  - id: "if-i-want-to-use-the-same-theme-for-all-the-plots-in-my-document-do-i-need-to-reuse-all-that-code-all-the-time"
+    text: "If I want to use the same theme for all the plots in my document, do I
+      need to reuse all that code all the time?"
+  - id: "why-would-we-want-to-use-rel1.4-instead-of-actual-numbers-when-sizing-things"
+    text: "Why would we want to use <code>rel(1.4)</code> instead of actual numbers
+      when sizing things?"
+  - id: "why-cant-i-change-title-text-with-theme"
+    text: "Why can’t I change title text with <code>theme()</code>?"
+  - id: "im-using-macos-and-couldnt-render-as-pdf-when-using-a-custom-fonthow-do-i-fix-that"
+    text: "I’m using macOS and couldn’t render as PDF when using a custom font—how
+      do I fix that?"
+  - id: "in-chapter-22-wilke-talks-about-tablesis-there-a-way-to-make-pretty-tables-with-r"
+    text: "In chapter 22, Wilke talks about tables—is there a way to make pretty tables
+      with R?"
+  - id: "double-encoding-and-excessive-legends"
+    text: "Double encoding and excessive legends"
+  - id: "legends-are-cool-but-ive-read-that-directly-labeling-things-can-be-better.-is-there-a-way-to-label-things-without-a-legend"
+    text: "Legends are cool, but I’ve read that directly labeling things can be better.
+      Is there a way to label things without a legend?"
+  - id: "can-we-fill-with-a-pattern-instead-of-colors"
+    text: "Can we fill with a pattern instead of colors?"
+- title: "Week 4 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1770750600'
+  date: "2026-02-10T19:10:00"
+  href: "/news/2026-02-10_faqs_week-04.html"
+  headings:
+  - id: "i-cant-remember-everything-i-need-to-type-i-cant-memorize-all-the-code-i-had-to-look-stuff-up-on-the-internet-why-didnt-you-cover-this-specific-thing"
+    text: "I can’t remember everything I need to type / I can’t memorize all the code
+      / I had to look stuff up on the internet / Why didn’t you cover this specific
+      thing?"
+  - id: "it-seems-weird-that-we-can-randomly-jitter-points-to-accurately-reveal-relationships"
+    text: "It seems weird that we can randomly jitter points to accurately reveal
+      relationships?"
+  - id: "i-want-my-lollipopbar-chart-to-go-sidewayshow-do-i-do-that"
+    text: "I want my lollipop/bar chart to go sideways—how do I do that?"
+  - id: "i-stored-something-as-an-object-and-now-i-cant-see-itwhy"
+    text: "I stored something as an object and now I can’t see it—why?"
+  - id: "why-does-r-keep-yelling-at-me-with-warnings-and-messages"
+    text: "Why does R keep yelling at me with warnings and messages?"
+  - id: "why-do-i-keep-getting-messages-like-summarise-has-grouped-output-by-blah-when-using-group_by-and-summarize"
+    text: "Why do I keep getting messages like <code>summarise() has grouped output
+      by 'BLAH'</code> when using <code>group_by()</code> and <code>summarize()</code>?"
+  - id: "when-do-we-use-summarize-vs.-mutate-with-group_by"
+    text: "When do we use <code>summarize()</code> vs. <code>mutate()</code> with
+      <code>group_by()</code>?"
+  - id: "how-can-i-hide-warnings-and-messages"
+    text: "How can I hide warnings and messages?"
+  - id: "why-did-we-need-to-group-a-second-time-when-calculating-the-proportions-for-the-heatmap"
+    text: "Why did we need to group a second time when calculating the proportions
+      for the heatmap?"
+  - id: "how-can-i-add-a-line-break-to-the-text-in-my-plot"
+    text: "How can I add a line break to the text in my plot?"
+  - id: "how-can-i-control-the-dimensions-of-my-figures"
+    text: "How can I control the dimensions of my figures?"
 - title: "Week 3 FAQs"
   categories:
   - "FAQs"
