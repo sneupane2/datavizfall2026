@@ -15,10 +15,10 @@ knitr::opts_chunk$set(fig.align = "center")
 
 For this exercise you'll get to practice making interactive plots and dashboards! You'll do it by creating a Quarto website and publishing it on the internet. That might sound intimidating and hard, but **don't worry!** Thanks to Quarto (and the starter code and detailed instructions I provide), it should be fairly straightforward.
 
-Complete instructions for the different tasks are [at this website](https://andrewheiss.quarto.pub/datavizsp26_11-exercise-recreate/). Use the top navigation bar there to look at the different pages:
+Complete instructions for the different tasks are [at this website](https://andrewheiss-datavizsp26-11-exercise-recreate.share.connect.posit.cloud/). Use the top navigation bar there to look at the different pages:
 
-- [{{< fa arrow-up-right-from-square >}} Exercise 11 data description](https://andrewheiss.quarto.pub/datavizsp26_11-exercise-recreate/)
-- [{{< fa arrow-up-right-from-square >}} Exercise 11 instructions + how to submit](https://andrewheiss.quarto.pub/datavizsp26_11-exercise-recreate/instructions.html)
+- [{{< fa arrow-up-right-from-square >}} Exercise 11 data description](https://andrewheiss-datavizsp26-11-exercise-recreate.share.connect.posit.cloud/)
+- [{{< fa arrow-up-right-from-square >}} Exercise 11 instructions + how to submit](https://andrewheiss-datavizsp26-11-exercise-recreate.share.connect.posit.cloud/instructions.html)
 
 ::: {.callout-important}
 ### Check the example!
@@ -30,11 +30,15 @@ The example page for this week will be helpful!
 
 ## Instructions
 
+::: {.callout-important}
+For this to work, you need to have Quarto 1.9+ installed. If you're using Posit Cloud, that's already the case. If you're using RStudio on your computer, [download and install the latest version of Quarto from here](https://quarto.org/docs/get-started/).
+:::
+
 1. Open the project either on your computer or in Posit.cloud
 
    - [{{< fa file-archive >}} `11-exercise.zip`](/projects/11-exercise.zip): If you're using R on your own computer, download this file, [*unzip it*](/resource/unzipping.qmd), and double click on the file named `11-exercise.Rproj`
    - [{{< fa cloud >}} Posit.cloud project](https://posit.cloud/spaces/737277/content/11693240): Use this link if you're using Posit.cloud in your browser
 
-2. Follow [the instructions here](https://andrewheiss.quarto.pub/datavizsp26_11-exercise-recreate/instructions.html) and complete the different tasks in the different `.qmd` files. Check [the data description](https://andrewheiss.quarto.pub/datavizsp26_11-exercise-recreate/) to learn more about what all the columns mean.
+2. Follow [the instructions here](https://andrewheiss-datavizsp26-11-exercise-recreate.share.connect.posit.cloud/instructions.html) and complete the different tasks in the different `.qmd` files. Check [the data description](https://andrewheiss-datavizsp26-11-exercise-recreate.share.connect.posit.cloud/) to learn more about what all the columns mean.
 
-3. When you're all done, [follow the instructions about publishing the site](https://andrewheiss.quarto.pub/datavizsp26_11-exercise-recreate/instructions.html#publishing-the-site-and-submitting-to-icollege). **Do not try to render as PDF or Word.** In iCollege, paste the URL of your website into the submission form.
+3. When you're all done, [follow the instructions about publishing the site](https://andrewheiss-datavizsp26-11-exercise-recreate.share.connect.posit.cloud/instructions.html#publishing-the-site-and-submitting-to-icollege). **Do not try to render as PDF or Word.** In iCollege, paste the URL of your website into the submission form.

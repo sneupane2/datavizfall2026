@@ -164,11 +164,23 @@ If you're *super brave*, check out [Quarto Live](https://r-wasm.github.io/quarto
 
 ## Publishing the site and submitting to iCollege
 
+::: {.callout-important}
+For this to work, you need to have Quarto 1.9+ installed. If you're using Posit Cloud, that's already the case. If you're using RStudio on your computer, [download and install the latest version of Quarto from here](https://quarto.org/docs/get-started/).
+:::
+
 **You will not upload a rendered PDF or Word file to iCollege.** Instead, you'll submit a link to your website.
 
-Here's how to do it:
+Here's a little (soundless) video showing the whole process (with step-by-step instructions below):
 
-1. Go to [quartopub.com](https://quartopub.com/) and create a free account. Make sure you're logged in in your main browser.
+```{=html}
+<div class="ratio ratio-16x9 mb-4 border">
+<video controls width="100%">
+  <source src="img/quarto-pcc-publish-website.mp4" type="video/mp4">
+</video>
+</div>
+```
+
+1. Go to [connect.posit.cloud](https://connect.posit.cloud/) and create a free account. If you've been using Posit Cloud over the course of the semester, you should be able to use that same account here. Make sure you're logged in in your main browser.
 
 2. In the Terminal panel in RStudio, run this:
 
@@ -178,37 +190,36 @@ Here's how to do it:
 
    Sometimes RStudio might not have an open Terminal panel. If you don't see the Terminal panel down by the console, go to View > Move Focus to Terminal and it'll open a terminal for you.
 
-3. Select `Quarto Pub` and press enter. Answer all the other questions. Press enter to select each different option.
+3. Use the up/down arrow keys to select `Posit Connect Cloud` and press enter.
 
-4. Wait for the site to render and upload. Here's a little (soundless) video showing the whole process:
+4. When asked to authorize, type "Y" and press enter. A new browser window will open with some random letters pre-filled. These same letters should also appear in your terminal. Confirm that they match and click on "Continue" in your browser. (If you've ever logged into Netflix or Disney+ on an Apple TV, Roku, or Amazon device, this is the same process; you only have to do this once per computer.)
 
-   ```{=html}
-   <div class="ratio ratio-16x9 mb-4 border">
-   <video controls width="100%">
-     <source src="img/quarto-publish-website.mp4" type="video/mp4">
-   </video>
-   </div>
-   ```
+5. Wait for the site to render and upload.
 
-   *(Note! In that video I chose "Use another account" for the "Publish with account" option. You don't have to do that! That was just so I could trigger the browser-based authentication window for the video. Ordinarily, once you set this up, you won't have to authenticate again and you can just tell it to use your already-authenticated account.)*
-
-5. At the end of the process you'll see the URL of your published site in the terminal, like this:
+6. At the end of the process you'll see the URL of your published site in the terminal, like this:
 
    ```{.bash filename="Terminal"}
    ...
-   [✓] Preparing to publish site
-   [✓] Uploading files (complete)
-   [✓] Deploying published site
-   [✓] Published site: https://andrewheiss.quarto.pub/my-super-cool-site-or-whatever
+   [✓] Uploading files
+   [✓] Publishing site
+   [✓] Published: https://connect.posit.cloud/andrewheiss/content/019d2139-259d-5450-38fe-a29aaaa7c522
    ```
 
-   Copy that URL and visit it in your browser. **That's your website!**
+   Copy that URL and visit it in your browser. It will take you to your Posit Connect Cloud dashboard where you can edit your site settings and see all the other sites you've published there.
 
-   You can view your [Quarto Pub account page](https://quartopub.com/) later to manage the site (like changing its URL or deleting the page, etc.)
+7. From that view, click on the "Copy link" icon (or click on the three dots (…) in the top right corner and select "Copy Link" if your browser window is smaller). This will copy the official public URL for your website. 
 
-6. In iCollege, paste the URL of your website into the submission form for Exercise 11.
+   ::: {.callout-tip title="Custom URLs"}
+   **Bonus!**: That default public URL will be long and gross and not memorable at all. You can customize it by going to the top navbar (or the three dots (…) menu) > Settings > URL > Customize your URL and specifying a custom name.
 
-7. You're done!
+   ![](img/customize-url-pcc.png)
+   :::
+
+8. Make sure your site works by pasting that copied URL into a new tab (or even better, open an incognito window or different browser). You should be able to see that site without needing to be logged into Posit Cloud Connect.
+
+9. In iCollege, paste the URL of your website into the submission form for Exercise 11.
+
+10. You're done!
 
 ::: {.callout-note}
 ### Updating your site
