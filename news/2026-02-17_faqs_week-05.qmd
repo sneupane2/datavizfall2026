@@ -20,11 +20,11 @@ set.seed(1234)
 
 ### This is too much code—Tableau can do all this, so why can't we use that?
 
-Yep. [Leland Wilkinson](https://en.wikipedia.org/wiki/Leland_Wilkinson)—the guy who invented the idea of the grammar of graphics and wrote [the literal *The Grammar of Graphics* book](https://en.wikipedia.org/wiki/Wilkinson%27s_Grammar_of_Graphics)—was actually a semi-cofounder of Tableau. As a result, Tableau uses the same grammar of graphics idea—you map data to aesthtics and show it with geoms (though they don't call things geoms there).
+Yep. [Leland Wilkinson](https://en.wikipedia.org/wiki/Leland_Wilkinson)—the guy who invented the idea of the grammar of graphics and wrote [the literal *The Grammar of Graphics* book](https://en.wikipedia.org/wiki/Wilkinson%27s_Grammar_of_Graphics)—was actually a semi-cofounder of Tableau. As a result, Tableau uses the same grammar of graphics idea—you map data to aesthetics and show it with geoms (though they don't call things geoms there).
 
 So why R and not Tableau then?
 
-Two main reasons: (1) R is free and you'll be able to use it after you graduate, and (2) using code to make graphics makes those graphics reproducible and more easily changeable. If you want to recreate a Tableau visualization, you have to document all the things you click on; if you want to recreate someone else's Tableau visualization, you have to reverse engineer it by clickingn around a bunch. With code-based graphics, once you have a good foundation in R, you can copy, paste, and adapt to make your plots, make modified versions of your plots, or borrow others' code.
+Two main reasons: (1) R is free and you'll be able to use it after you graduate, and (2) using code to make graphics makes those graphics reproducible and more easily changeable. If you want to recreate a Tableau visualization, you have to document all the things you click on; if you want to recreate someone else's Tableau visualization, you have to reverse engineer it by clicking around a bunch. With code-based graphics, once you have a good foundation in R, you can copy, paste, and adapt to make your plots, make modified versions of your plots, or borrow others' code.
 
 Also, Tableau doesn't have the huge community of developers that R and ggplot have. There's no {gghalves} or {ggridges} or any of the different gg-related packages that R has. Go to the Packages panel in RStudio, then click on "Install packages" and start typing "gg", you'll see a ton of ggplot-related packages. I have no idea what most of these do (you can see {ggbeeswarm} there!), but they do something with ggplot. One of those packages is called {ggbrain}—it lets you [plot brain images using ggplot](https://neuroconductor.org/help/ggBrain/articles/intro.html). {ggarchery} sounds neat—it lets you [make nicer arrows for annotating things](https://github.com/mdhall272/ggarchery).
 
@@ -559,7 +559,7 @@ tribble(
   group_tt(j = list(`Output support` = 2:4))
 ```
 
-Here's a quick illustration of these four packages. All four are incredibly powerful and let you do all sorts of really neat formatting things ([{gt} even makes interactive HTML tables!](https://gt.rstudio.com/reference/opt_interactive.html)), so make sure you check out the documentation and examples. I personally use {tinytable} and {gt} for all my tables, depending on which output I'm working with. When rendering to HTML, I use {tinytable} or {gt}; when rendering to PDF I use {tinytabe}; when rendering to Word I use {flextable}.
+Here's a quick illustration of these four packages. All four are incredibly powerful and let you do all sorts of really neat formatting things ([{gt} even makes interactive HTML tables!](https://gt.rstudio.com/reference/opt_interactive.html)), so make sure you check out the documentation and examples. I personally use {tinytable} and {gt} for all my tables, depending on which output I'm working with. When rendering to HTML, I use {tinytable} or {gt}; when rendering to PDF I use {tinytable}; when rendering to Word I use {flextable}.
 
 ::: {.panel-tabset}
 ### Dataset to table-ify
