@@ -1,0 +1,17 @@
+---
+title: "Grades, zeroes, and ✓−s in the gradebook"
+date: "2026-03-26T13:05"
+categories: [course details]
+---
+
+Hi everyone!
+
+You'll notice on iCollege that I just finished grading Mini Project 1 and all other assignments up to this point in the semester. In general you're all doing great!
+
+**If you received a ✓− on any of the exercises, you can resubmit them for a higher grade.**
+
+A few of you have noticed that you now have 0s for assignments that you haven’t turned in yet. **Don’t worry!** I just had iCollege update all the missing grades to 0 for the sake of more accurate grade calculation. 
+
+So now you should be able to see what your current grade is with the correct denominator (i.e. 255, or the points for everything from the beginning of the semester up to today), meaning the percentages you see are more accurate.
+
+If you have a 0, don't worry! Once you turn in past exercises the 0 will get replaced with the actual score. The 0 is just a mathematical quirk to get iCollege to cooperate.
