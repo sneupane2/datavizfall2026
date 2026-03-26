@@ -31,6 +31,9 @@ website:
 
   draft-mode: unlinked
 
+  # Help out the robots
+  llms-txt: true
+
   # announcement:
   #   icon: calendar-check
   #   dismissable: true
