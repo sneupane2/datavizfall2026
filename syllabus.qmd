@@ -10,19 +10,19 @@ pdf-footer-left: Data Visualization with R
 reference-location: margin
 format: 
   html: default
-  typst:
-    # COURSE SUBJECT-COURSE NUMBER-FACULTY LAST NAME-CRN-TERMYEAR
-    output-file: "PMAP-8551-HEISS-89550-SP26.pdf"
-    citeproc: true
-    csl: files/bib/chicago-notes.csl
-    include-in-header: 
-      - "typst-pdf-stuff/include-in-header.typ"
-    include-before-body:
-      - "typst-pdf-stuff/note.typ"
-    filters: 
-      - "typst-pdf-stuff/processing.lua"
-    mainfont: Barlow
-    fontsize: "10pt"
+  # typst:
+  #   # COURSE SUBJECT-COURSE NUMBER-FACULTY LAST NAME-CRN-TERMYEAR
+  #   output-file: "PMAP-8551-HEISS-89550-SP26.pdf"
+  #   citeproc: true
+  #   csl: files/bib/chicago-notes.csl
+  #   include-in-header: 
+  #     - "typst-pdf-stuff/include-in-header.typ"
+  #   include-before-body:
+  #     - "typst-pdf-stuff/note.typ"
+  #   filters: 
+  #     - "typst-pdf-stuff/processing.lua"
+  #   mainfont: Barlow
+  #   fontsize: "10pt"
 ---
 
 ```{r setup, message=FALSE, warning=FALSE, include=FALSE}
