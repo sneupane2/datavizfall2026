@@ -1,5 +1,122 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "Week 9 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1774461240'
+  date: "2026-03-25T17:54:00"
+  href: "/news/2026-03-25_faqs_week-09.html"
+  headings:
+  - id: "there-are-so-many-ggplot-specific-r-packageshow-can-we-remember-them-or-find-them-all"
+    text: "There are so many ggplot-specific R packages—how can we remember them or
+      find them all?"
+  - id: "i-converted-qar-to-usd-but-the-label-in-my-plot-still-said-qarwhat-happened"
+    text: "I converted QAR to USD but the label in my plot still said QAR—what happened?"
+  - id: "whats-the-difference-between-labs-and-annotategeom-text"
+    text: "What’s the difference between <code>labs()</code> and <code>annotate(geom
+      = &quot;text&quot;)</code>?"
+  - id: "whats-the-difference-between-geom_text-and-annotategeom-text"
+    text: "What’s the difference between <code>geom_text()</code> and <code>annotate(geom
+      = &quot;text&quot;)</code>?"
+  - id: "how-do-i-know-which-aesthetics-geoms-need-to-use"
+    text: "How do I know which aesthetics geoms need to use?"
+  - id: "its-annoying-to-have-to-specify-annotation-positions-using-the-values-of-the-xy-axis-scales.-is-there-a-way-to-say-put-this-in-the-middle-of-the-graph-instead"
+    text: "It’s annoying to have to specify annotation positions using the values
+      of the x/y axis scales. Is there a way to say  instead?"
+  - id: "whats-the-difference-between-geom_text-and-geom_label"
+    text: "What’s the difference between <code>geom_text()</code> and <code>geom_label()</code>?"
+  - id: "what-does-update_geom_defaults-do"
+    text: "What does <code>update_geom_defaults()</code> do?"
+  - id: "how-do-annotations-work-with-facets"
+    text: "How do annotations work with facets?"
+  - id: "the-importance-of-layer-order"
+    text: "The importance of layer order"
+- title: "Week 8 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1773158100'
+  date: "2026-03-10T15:55:00"
+  href: "/news/2026-03-10_faqs_week-08.html"
+  headings:
+  - id: "using-paste0-to-build-complex-text-is-annoying-is-there-a-better-way"
+    text: "Using <code>paste0()</code> to build complex text is annoying! Is there
+      a better way?"
+  - id: "why-did-we-use-free-y-axis-scales-wouldnt-it-be-better-to-keep-them-the-same-across-panels"
+    text: "Why did we use free y-axis scales? Wouldn’t it be better to keep them the
+      same across panels?"
+  - id: "i-tried-to-resize-my-small-multiples-plot-and-it-didnt-workwhy"
+    text: "I tried to resize my small multiples plot and it didn’t work—why?"
+  - id: "why-did-my-slopegraph-labels-repeat-on-both-sides"
+    text: "Why did my slopegraph labels repeat on both sides?"
+  - id: "the-guide-lines-in-the-slopegraph-look-like-real-lines-of-data-is-there-a-way-to-fix-that"
+    text: "The guide lines in the slopegraph look like real lines of data! Is there
+      a way to fix that?"
+  - id: "are-geofacet-plots-used-in-real-life"
+    text: "Are geofacet plots used in real life?"
+  - id: "how-can-i-get-month-and-weekday-names-or-abbreviations-for-dates"
+    text: "How can I get month and weekday names or abbreviations for dates?"
+  - id: "can-i-get-these-automatic-month-and-day-names-in-non-english-languages"
+    text: "Can I get these automatic month and day names in non-English languages?"
+  - id: "seedswhy"
+    text: "Seeds—why?"
+- title: "Week 7 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1772544060'
+  date: "2026-03-03T13:21:00"
+  href: "/news/2026-03-03_faqs_week-07.html"
+  headings:
+  - id: "is-there-some-place-i-can-find-r-packages-there-are-so-many"
+    text: "Is there some place I can find R packages? There are so many!"
+  - id: "when-is-it-better-to-use-augment-vs.-marginaleffectspredictions"
+    text: "When is it better to use <code>augment()</code> vs. <code>marginaleffects::predictions()</code>?"
+  - id: "ive-used-summary-in-the-past-to-look-at-model-objects-but-you-recommend-using-tidy.-why"
+    text: "I’ve used <code>summary()</code> in the past to look at model objects,
+      but you recommend using <code>tidy()</code>. Why?"
+  - id: "i-tried-to-render-my-document-and-got-an-error-about-duplicate-chunk-labels.-why"
+    text: "I tried to render my document and got an error about duplicate chunk labels.
+      Why?"
+  - id: "i-tried-calculating-something-with-sum-or-cor-and-r-gave-me-na-instead-of-a-number.-why"
+    text: "I tried calculating something with <code>sum()</code> or <code>cor()</code>
+      and R gave me NA instead of a number. Why?"
+  - id: "should-i-always-just-use-na.rm-true-then"
+    text: "Should I always just use <code>na.rm = TRUE</code> then?"
+  - id: "what-about-missing-data-with-regression-what-does-r-do-then"
+    text: "What about missing data with regression? What does R do then?"
+  - id: "i-want-my-bars-to-be-sorted-in-my-plot.-how-can-i-control-their-order"
+    text: "I want my bars to be sorted in my plot. How can I control their order?"
+  - id: "are-there-other-legitimate-cases-for-using-dual-y-axes"
+    text: "Are there other legitimate cases for using dual y-axes?"
+- title: "Week 6 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1771975080'
+  date: "2026-02-24T23:18:00"
+  href: "/news/2026-02-25_faqs_week-06.html"
+  headings:
+  - id: "can-we-see-the-answers-for-these-exercises"
+    text: "Can we see the answers for these exercises?"
+  - id: "how-wide-should-my-histogram-bins-be-whats-the-best-rule-to-follow"
+    text: "How wide should my histogram bins be? What’s the best rule to follow?"
+  - id: "whats-the-rightbestmost-appropriateclearest-way-to-communicate-uncertainty"
+    text: "What’s the right/best/most appropriate/clearest way to communicate uncertainty?"
+  - id: "am-i-telling-r-what-to-do-with-my-code-or-is-it-telling-me-what-to-do-whos-in-charge-why-isnt-it-listening"
+    text: "Am I telling R what to do with my code, or is it telling me what to do?
+      Who’s in charge? Why isn’t it listening?!"
+  - id: "do-i-really-need-to-make-fancy-custom-themes-for-every-plot-arent-theme_bw-or-theme_gray-just-fine"
+    text: "Do I really need to make fancy custom themes for every plot? Aren’t <code>theme_bw()</code>
+      or <code>theme_gray()</code> just fine?"
+  - id: "we-keep-seeing-violin-plots-but-theyre-still-confusing-and-ugly-and-weird.-why-are-they-a-thing"
+    text: "We keep seeing violin plots, but they’re still confusing (and ugly and
+      weird). Why are they a thing?"
+  - id: "i-have-numbers-like-20000-and-want-them-formatted-with-commas-like-20000.-can-i-do-that-automatically"
+    text: "I have numbers like 20000 and want them formatted with commas like 20,000.
+      Can I do that automatically?"
+  - id: "i-tried-using-gghalves-and-geom_half_point-but-i-got-an-error"
+    text: "I tried using {gghalves} and <code>geom_half_point()</code> but I got an
+      error?"
+  - id: "does-it-matter-which-order-we-put-the-different-layers-in"
+    text: "Does it matter which order we put the different layers in?"
 - title: "Week 5 FAQs"
   categories:
   - "FAQs"
