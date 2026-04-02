@@ -1,5 +1,25 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "Week 10 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1775038920'
+  date: "2026-04-01T10:22:00"
+  href: "/news/2026-04-01_faqs_week-10.html"
+  headings:
+  - id: "how-do-i-include-a-separate-image-in-my-document"
+    text: "How do I include a separate image in my document?"
+  - id: "when-should-we-add-annotations-and-text-in-r-vs.-in-a-separate-program"
+    text: "When should we add annotations and text in R vs. in a separate program?"
+  - id: "do-people-really-do-this-two-step-process-of-using-r-and-then-using-illustrator"
+    text: "Do people really do this two-step process of using R and then using Illustrator?"
+  - id: "why-cant-we-use-canva-for-this"
+    text: "Why can’t we use Canva for this?"
+  - id: "the-urban-institute-style-guide-said-to-use-6.25-inches-or-720-pixels-but-in-illustratoraffinityinkscape-it-translated-6.25-inches-to-450-pointswhy"
+    text: "The Urban Institute style guide said to use 6.25 inches or 720 pixels,
+      but in Illustrator/Affinity/Inkscape, it translated 6.25 inches to 450 points—why?"
+  - id: "are-there-situations-where-radial-or-circular-coordinates-are-useful"
+    text: "Are there situations where radial or circular coordinates are useful?"
 - title: "Grades, zeroes, and ✓−s in the gradebook"
   categories:
   - "course details"
