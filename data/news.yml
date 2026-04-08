@@ -1,5 +1,41 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "Week 11 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1775599740'
+  date: "2026-04-07T22:09:00"
+  href: "/news/2026-04-07_faqs_week-11-live.html"
+  headings:
+  - id: "glue-is-so-helpful-canshould-we-just-use-it-all-the-time"
+    text: "<code>glue()</code> is so helpful! Can/should we just use it all the time?"
+  - id: "how-do-i-update-my-site-if-i-make-changes"
+    text: "How do I update my site if I make changes?"
+  - id: "can-we-make-our-own-websites-to-display-our-work-and-our-projects"
+    text: "Can we make our own websites to display our work and our projects?"
+  - id: "can-i-customize-the-url-for-my-site-like-www.myname.com"
+    text: "Can I customize the URL for my site? Like www.myname.com?"
+  - id: "do-people-use-plotly-and-quarto-dashboards-and-websites-in-the-real-world"
+    text: "Do people use Plotly and Quarto dashboards and websites in the real world?"
+  - id: "my-plot-didnt-translate-perfectly-to-ggplotlywhy"
+    text: "My plot didn’t translate perfectly to ggplotly—why?"
+  - id: "how-did-you-get-the-two-value-text-boxes-to-stack-on-top-of-each-other-in-the-bottom-row"
+    text: "How did you get the two value text boxes to stack on top of each other
+      in the bottom row?"
+  - id: "should-we-learn-shiny-when-should-we-use-a-dashboard-vs.-a-full-shiny-app"
+    text: "<em>Should</em> we learn Shiny? When should we use a dashboard vs. a full
+      Shiny app?"
+  - id: "but-i-dont-want-to-learn-a-whole-other-language-with-ojs-to-show-in-browser-interactive-graphsis-there-a-way-to-use-r-in-the-browser-without-shiny"
+    text: "But I don’t want to learn a whole other language with OJS to show in-browser
+      interactive graphs—is there a way to use R in the browser <em>without</em> Shiny?"
+  - id: "i-rendered-my-file-dashboard-but-it-didnt-appear-in-the-viewer-panelwhy-not"
+    text: "I rendered my file / dashboard but it didn’t appear in the Viewer panel—why
+      not?"
+  - id: "do-people-use-viridis-palettes-in-real-life"
+    text: "Do people use viridis palettes in real life?"
+  - id: "im-bored-with-ggplots-default-colors-andor-viridishow-can-i-use-other-color-palettes"
+    text: "I’m bored with ggplot’s default colors and/or viridis—how can I use other
+      color palettes?"
 - title: "Week 10 FAQs"
   categories:
   - "FAQs"
