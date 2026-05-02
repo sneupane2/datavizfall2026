@@ -1,5 +1,118 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "Class website future"
+  categories:
+  - "course details"
+  date_actual: '1777726620'
+  date: "2026-05-02T12:57:00"
+  href: "/news/2026-05-02_website-future.html"
+  headings: []
+- title: "Week 15 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1777640400'
+  date: "2026-05-01T13:00:00"
+  href: "/news/2026-05-01_faqs_week-15.html"
+  headings:
+  - id: "what-kind-of-communities-can-i-follow-online-to-keep-up-with-this-r-stuff"
+    text: "What kind of communities can I follow online to keep up with this R stuff?"
+  - id: "who-in-the-r-and-dataviz-world-should-i-be-following"
+    text: "Who in the R and dataviz world should I be following?"
+  - id: "will-r-ever-be-fully-replaced-by-ai"
+    text: "Will R ever be fully replaced by AI?"
+  - id: "will-you-incorporate-llms-and-ai-prompting-into-the-course-in-the-future"
+    text: "Will you incorporate LLMs and AI prompting into the course in the future?"
+  - id: "why-wont-you-incorporate-llms-and-ai-prompting-into-the-course"
+    text: "Why won’t you incorporate LLMs and AI prompting into the course?"
+- title: "Week 14 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1777369080'
+  date: "2026-04-28T09:38:00"
+  href: "/news/2026-04-28_faqs_week-14.html"
+  headings:
+  - id: "why-didnt-the-number-of-words-in-my-all_words-dataset-match-what-you-had-in-the-instructions"
+    text: "Why didn’t the number of words in my <code>all_words</code> dataset match
+      what you had in the instructions?"
+  - id: "why-did-you-have-us-use-a-tv-script-how-is-this-relevant-to-anything-we-might-ever-do-do-people-use-this-kind-of-text-analysis-and-visualization-in-real-life"
+    text: "Why did you have us use a TV script? How is this relevant to anything we
+      might ever do? Do people use this kind of text analysis and visualization in
+      real life?"
+  - id: "whats-the-difference-between-geom_pointrange-and-geom_segment-geom_point"
+    text: "What’s the difference between <code>geom_pointrange()</code> and <code>geom_segment()
+      + geom_point()</code>?"
+  - id: "sometimes-when-i-render-my-document-i-get-pages-of-code-in-addition-to-the-outputwhy-and-how-do-i-stop-it"
+    text: "Sometimes when I render my document I get pages of code in addition to
+      the output—why, and how do I stop it?"
+  - id: "whats-the-best-way-to-add-words-like-season-to-the-facet-titles"
+    text: "What’s the best way to add words like  to the facet titles?"
+  - id: "some-of-the-words-in-my-word-frequencytf-idf-plot-were-out-of-orderhow-can-i-fix-that"
+    text: "Some of the words in my word frequency/tf-idf plot were out of order—how
+      can I fix that?"
+  - id: "cleaning-up-text-is-always-specific-and-specialized"
+    text: "Cleaning up text is <em>always</em> specific and specialized"
+  - id: "i-tried-filtering-out-words-like-im-and-they-didnt-filterwhy-not"
+    text: "I tried filtering out words like <code>i'm</code> and they didn’t filter—why
+      not?"
+  - id: "i-tried-filtering-out-blank-words-with-drop_na-and-it-didnt-workwhy-not"
+    text: "I tried filtering out blank words with <code>drop_na()</code> and it didn’t
+      work—why not?"
+  - id: "is-there-any-way-to-interpet-tf-idf-values-beyond-just-comparing-their-rankings"
+    text: "Is there any way to interpet tf-idf values beyond just comparing their
+      rankings?"
+- title: "Week 13 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1776697260'
+  date: "2026-04-20T15:01:00"
+  href: "/news/2026-04-20_faqs_week-13.html"
+  headings:
+  - id: "which-plot-is-the-best-for-visualizing-time"
+    text: "Which plot is the best for visualizing time?"
+  - id: "can-i-visualize-time-with-a-map"
+    text: "Can I visualize time with a map?"
+  - id: "can-we-show-changes-in-time-with-animation"
+    text: "Can we show changes in time with animation?"
+  - id: "getting-the-inset-plot-positioned-correctly-was-trickywhats-the-best-way-to-do-that"
+    text: "Getting the inset plot positioned correctly was tricky—what’s the best
+      way to do that?"
+  - id: "my-subscripted-2-wasnt-appearing-in-my-plot.-can-i-fix-that"
+    text: "My subscripted 2 wasn’t appearing in my plot. Can I fix that?"
+  - id: "whats-the-difference-between-using-by-thing-and-join_bything-with-the-different-join-functions"
+    text: "What’s the difference between using <code>by = &quot;thing&quot;</code>
+      and <code>join_by(&quot;thing&quot;)</code> with the different join functions?"
+- title: "Week 12 FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1776092220'
+  date: "2026-04-13T14:57:00"
+  href: "/news/2026-04-13_faqs_week-12.html"
+  headings:
+  - id: "can-we-make-interactive-maps-with-r"
+    text: "Can we make interactive maps with R?"
+  - id: "why-do-we-use-an-empty-ggplot-call-for-these-functions"
+    text: "Why do we use an empty <code>ggplot()</code> call for these functions?"
+  - id: "whats-the-difference-between-a-tibble-and-a-tribble"
+    text: "What’s the difference between a tibble and a tribble?"
+  - id: "how-many-decimal-points-should-i-use-when-im-working-with-latitude-and-longitude"
+    text: "How many decimal points should I use when I’m working with latitude and
+      longitude?"
+  - id: "can-i-use-geom_label_repel-with-maps"
+    text: "Can I use <code>geom_label_repel()</code> with maps?"
+  - id: "i-tried-using-nudge_x-to-move-a-label-on-the-map-and-it-didnt-movewhy"
+    text: "I tried using <code>nudge_x</code> to move a label on the map and it didn’t
+      move—why?"
+  - id: "can-i-use-a-heatmap-on-a-map"
+    text: "Can I use a heatmap on a map?"
+  - id: "i-tried-to-make-a-map-and-countries-are-missingwhy"
+    text: "I tried to make a map and countries are missing—why?"
+  - id: "i-tried-to-make-a-map-of-just-europe-and-it-includes-more-than-just-europe"
+    text: "I tried to make a map of just Europe and it includes more than just Europe?"
+  - id: "can-we-do-geographic-calculations-with-sf-like-can-we-replace-arcgis-with-r-and-sf"
+    text: "Can we do geographic calculations with {sf}? Like, can we replace ArcGIS
+      with R and {sf}?"
+  - id: "saving-data-that-takes-a-long-time-to-make"
+    text: "Saving data that takes a long time to make"
 - title: "Week 11 FAQs"
   categories:
   - "FAQs"
