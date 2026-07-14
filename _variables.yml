@@ -1,28 +1,29 @@
 author: Andrew Heiss
 
 instructor:
-  name: Dr. Andrew Heiss
-  name_no_title: Andrew Heiss
-  email: aheiss@gsu.edu
-  url: "https://www.andrewheiss.com"
-  bluesky: "https://bsky.app/profile/andrew.heiss.phd"
-  github: andrewheiss
-  office: "55 Park Place NE, Room 464"
+  name: Dr. Suresh Nath Neupne
+  name_no_title: Suresh N. Neupane
+  email: sneupane2@gsu.edu
+  url: "https://aysps.gsu.edu/profile/suresh-n-neupane/"
+  linkedin: "https://www.linkedin.com/in/sureshnathneupane/"
+  github: sneupane2
+  office: "55 Park Place NE, Room 473"
   contact_policy: >-
-    E-mail and Discord are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Discord messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
-  appointment_url: https://scheduler.zoom.us/andrewheiss
+    Email is the best way to contact me. I will generally respond to
+    course-related emails within 24–48 hours on weekdays
+  
 
 course:
   number: "PMAP 8551/4551"
-  semester: "Spring 2026"
+  semester: "Fall 2026"
   days: "Any day"
   time: "Asynchronous"
   location: "Anywhere"
-  dates: "January 12–May 4, 2026"
-  github: "https://www.github.com/andrewheiss/datavizsp26.classes.andrewheiss.com"
-  url: "https://datavizsp26.classes.andrewheiss.com"
+  dates: "August 24– Dec 7, 2026"
+  github: "https://github.com/sneupane2/datavizfall2026"
+  url: "https://github.com/sneupane2/datavizfall2026"
   copyright_year: "2026"
-  discord: "https://discord.com/"
+  
 
 university:
   name: Georgia State University
